@@ -1,0 +1,16 @@
+/* img {
+    width: 200px;
+    height: 200px;
+  }
+   */
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .full-width{
+     width: 100%;
+  }
+  

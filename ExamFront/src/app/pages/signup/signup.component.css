@@ -1,0 +1,96 @@
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.full-width{
+   width: 100%;
+}
+
+
+  /* Custom styles for the form
+  .bootstrap-wrapper {
+    background-color: hotpink;
+      /* padding: 20px; */
+     
+  /* }
+
+  .container {
+      /* background-color:#8e97ff; */
+      /* background-color: rgba(255, 255, 255, 0.8);
+      /* padding: 20px; */
+      /* font-family: "Proxima Nova","Verdana","Avenir Next";
+      font-size: 16px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  } */ 
+
+  /* .form-header {
+      margin-bottom: 30px;
+      text-align: center;
+  }
+
+  .form-header h1 {
+      color: #0d090900;
+      font-size: 24px;
+      font-weight: bold;
+  }
+
+  .form-field {
+      margin-bottom: 20px;
+  }
+
+  .form-field label {
+      color: #555;
+      font-weight: bold;
+  }
+
+  .form-field input {
+      width: 100%;
+      /* padding: 10px; */
+      /* border: 1px solid #ccc;
+      border-radius: 4px;
+  } */
+
+  /* .form-field input:focus {
+      outline: none;
+      border-color: #8e97ff;
+  } */
+
+  /* .form-field .hint {
+      color: #888;
+      font-size: 12px;
+  } */
+/* 
+  .form-actions {
+      text-align: center;
+      margin-top: 30px;
+  } */
+
+  /* .form-actions button {
+      margin-right: 10px;
+      /* padding: 10px 20px; */
+      /* border-radius: 4px;
+      font-weight: bold;
+      cursor: pointer;
+  }  */
+
+  /* .form-actions button.primary {
+      background-color: #8e97ff;
+      color:black;
+      border: none;
+  }
+
+  .form-actions button.secondary {
+      background-color: #f5f5f5;
+      color: #333;
+      border: 1px solid #ccc;
+  }  */

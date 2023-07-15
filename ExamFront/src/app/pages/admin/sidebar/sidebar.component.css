@@ -1,0 +1,8 @@
+.action-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .mat-icon {
+    margin-right: 8px; /* Adjust the spacing between the icon and text */
+  }
